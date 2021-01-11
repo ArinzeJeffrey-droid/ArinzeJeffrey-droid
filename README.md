@@ -7,3 +7,5 @@ Here's a brief info about me:
 * Python and Javascript are my go to languages, i also code PHP and Java on the side.
 * And i'm obssessed with learning and improving my tech skills.
 * And one day i hope to make a positive impact in the world. 🌎
+
+![Visitor Count](https://profile-counter.glitch.me/ArinzeJeffrey-droid/count.svg)
